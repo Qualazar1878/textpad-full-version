@@ -1,0 +1,5 @@
+# Configuration for git attributes
+*.tsx linguist-detectable
+*.html linguist-vendored
+*.woff binary
+* text=auto eol=lf
